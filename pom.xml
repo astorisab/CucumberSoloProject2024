@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>otherpro2j</groupId>
+    <groupId>otherproj</groupId>
     <artifactId>otherproj</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -47,7 +47,7 @@
 <!--            <scope>test</scope>-->
 <!--        </dependency>-->
 
-<!-- JUNIT BASED STANDARD CUCMBER EXECUTION-->
+<!-- JUNIT BASED STANDARD CUCUMBER EXECUTION-->
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
